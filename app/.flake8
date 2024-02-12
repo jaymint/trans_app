@@ -1,5 +1,6 @@
 
 [flake8]
+ignore = E302, E303
 exclude =
     migration,
     __pycache__,
